@@ -1,0 +1,25 @@
+{
+  "name": "pinkroom-inprogress",
+  "version": "1.0.0",
+  "description": "\"In Progress\" Landing Page for Pink Room - pinkroom.co",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simaonogueira101/pinkroom-inprogress.git"
+  },
+  "keywords": [
+    "PinkRoom"
+  ],
+  "author": "Simão Nogueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simaonogueira101/pinkroom-inprogress/issues"
+  },
+  "homepage": "https://github.com/simaonogueira101/pinkroom-inprogress#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
