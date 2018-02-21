@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="162px" height="152px" viewBox="0 0 162 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11 Copy 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,76 C0,116.683984 27.9406571,152 81.0001656,152 C134.059343,152 162,116.683984 162,76 C162,35.315905 134.059343,0 81.0001656,0 C27.9406571,0 0,35.315905 0,76 Z M65.4752103,80.2207299 C57.5713276,51.1237715 53.3373492,31.9138736 53.3373492,20.0490472 C53.3373492,9.03177159 57.8538063,3.94679862 64.9103633,3.94679862 C76.4837086,3.94679862 83.8227443,24.5693548 96.525121,71.745996 C104.428672,100.842954 108.662651,120.052963 108.662651,131.917679 C108.662651,142.934954 104.146304,148.020038 97.0896367,148.020038 C85.5162914,148.020038 78.1772557,127.397813 65.4752103,80.2207299 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11-Copy-6">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-10"></g>
+            <polygon id="Fill-9" fill="#FAFAFA" mask="url(#mask-2)" points="-0.559585492 152.560221 162.5396 152.560221 162.5396 -0.56022114 -0.559585492 -0.56022114"></polygon>
+        </g>
+    </g>
+</svg>
