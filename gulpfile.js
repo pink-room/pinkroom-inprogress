@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
+var exitHandler = require('./exit-handler')
 
 gulp.task('styles', function() {
   gulp.src('public/sass/global.scss')
@@ -10,3 +11,5 @@ gulp.task('styles', function() {
 gulp.task('default', function() {
   gulp.watch('public/sass/*.scss',['styles']);
 });
+
+exitHandler.handleCtrlC();
