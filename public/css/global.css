@@ -6603,7 +6603,7 @@ a:not(.social) {
   transition: top 2s, opacity 0.5s;
   user-select: none; }
   .section-about.active {
-    user-select: all;
+    user-select: text;
     top: 0;
     opacity: 1;
     transition: top 1s, opacity 1s 1s; }
