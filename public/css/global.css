@@ -6597,8 +6597,15 @@ a {
   position: absolute;
   top: -200vh;
   opacity: 0;
-  transition: top 2s, opacity 0.2s; }
+  transition: top 2s, opacity 0.5s;
+  user-select: none; }
   .section-about.active {
+    user-select: all;
     top: 0;
     opacity: 1;
     transition: top 1s, opacity 1s 1s; }
+  .section-about .container {
+    margin: 0; }
+    @media screen and (min-width: 920px) {
+      .section-about .container {
+        width: 50%; } }
