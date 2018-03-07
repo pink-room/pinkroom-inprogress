@@ -23,6 +23,10 @@ h2 {
 p {
   font-family: "CooperHewitt-Book"; }
 
+.pink {
+  color: #F57EB6;
+}
+
 /*! bulma.io v0.6.2 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
